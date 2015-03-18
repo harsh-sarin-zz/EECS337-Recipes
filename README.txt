@@ -8,7 +8,7 @@ This source uses the following libraries:
 - urllib2 and BeautifulSoup for web scraping.
 - re: library to use Regular Expressions.
 - nltk: Natural Language ToolKit for tokenizing words, sentences and using parts of speech
-tagging.
+	tagging.
 - json: to read from the JSON files.
 
 These packages can be downloaded from the pip repository
